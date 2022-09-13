@@ -7,7 +7,7 @@ We want to put a group of people into two soccer teams, where **people who don't
 
 Not liking each other is mutual, so if person A doesn't like person B, person B doesn't like person A either. We know that in each group of people, there are at least 2 people who don't like each other. The goal is to make **two teams with same number of members** where the above condition is satisfied, and the maximum number of people are playing.
 
-INPUT: In the first line, two numbers n and m are given. n is the **total number of people**. m is the **number of dislikes **in between** them. In the next m line, the **pairs of people who don't like each other** are given.
+INPUT: In the first line, two numbers n and m are given. n is the **total number of people**. m is the **number of dislikes in between** them. In the next m line, the **pairs of people who don't like each other** are given.
 
 OUTPUT: The minimum number of people who can't play soccer is printed.
 
