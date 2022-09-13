@@ -1,9 +1,7 @@
 # DFS
 Implementing **DFS**, and **Random DFS** algorithms on different problems.
 
-<h2>DFS</h2>
-
-<h4>Soccer Teams:</h4>
+<h2>Soccer Teams:</h2>
 
 We want to put a group of people into two soccer teams, where **people who don't like each other are not in the same team**.
 
